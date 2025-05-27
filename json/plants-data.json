@@ -1,0 +1,72 @@
+[
+    {
+        "name": "二乔玉兰",
+        "scientific_name": "Yulania × soulangeana",
+        "features": "木兰科玉兰属落叶小乔木，株高6-10米，早春观花树种，先花后叶。",
+        "location": "华中农业大学图书馆门口",
+        "image_url": "img/plant/二乔玉兰.jpg"
+    },
+    {
+        "name": "粉花绣线菊(火烧尖)",
+        "scientific_name": "Spiraea japonica L. f.",
+        "features": "蔷薇科绣线菊属直立灌木，株高1.5米，花期6-7月；果期8-9月。",
+        "location": "华中农业大学博园12、景园楼前绿地、南湖边",
+        "image_url": "img/plant/粉花绣线菊(火烧尖).jpg"
+    },
+    {
+        "name": "粉美人蕉（水生美人蕉）",
+        "scientific_name": "Spiraea japonica",
+        "features": "美人蕉科美人蕉属多年生球根草本植物，株高1.5-2米，花期夏秋季。",
+        "location": "华中农业大学南湖边",
+        "image_url": "img/plant/粉美人蕉（水生美人蕉）.jpg"
+    },
+    {
+        "name": "金钱松",
+        "scientific_name": "Pteridium aquilinum",
+        "features": "松科金钱松属乔木，高达40米，胸径达1.7米；树干通直，树皮粗糙，秋后叶呈金黄色。",
+        "location": "华中农业大学艺术馆、行政楼、北苑",
+        "image_url": "img/plant/金钱松.jpg"
+    },
+    {
+        "name": "络石（风车茉莉）",
+        "scientific_name": "Trachelospermum jasminoides",
+        "features": "夹竹桃科络石属常绿木质藤本植物，长2-10米，花期3-7月，果期7-12月。",
+        "location": "华中农业大学主楼台阶两旁",
+        "image_url": "img/plant/络石（风车茉莉）.jpg"
+    },
+    {
+        "name": "美国凌霄",
+        "scientific_name": "Campsis radicans",
+        "features": "紫葳科凌霄属气生根藤本植物，长达10米，花冠筒细长，呈橙红色至鲜红色，可代凌霄花入药，有活血通经、凉血祛风的功效。",
+        "location": "学校图书馆旁",
+        "image_url": "img/plant/美国凌霄.jpg"
+    },
+    {
+        "name": "美丽月见草（夜来香）",
+        "scientific_name": "Oenothera speciosa",
+        "features": "柳叶菜科月见草属多年生草本植物，株高30-60厘米，花期4-11月，果期6-12月。",
+        "location": "华中农业大学花卉教学基地、青年湖、景园楼前的花境",
+        "image_url": "img/plant/美丽月见草（夜来香）.jpg"
+    },
+    {
+        "name": "牡荆",
+        "scientific_name": "Vitex negundo var. cannabifolia ",
+        "features": "唇形科牡荆属落叶灌木或小乔木，圆锥花序顶生，花期6-7月，果期8-11月。",
+        "location": "华中农业大学南湖边，狮子山上",
+        "image_url": "img/plant/牡荆.jpg"
+    },
+    {
+        "name": "溲疏",
+        "scientific_name": "Deutzia scabra",
+        "features": "虎耳草科溲疏属落叶大灌木，高达3米，直立圆锥花序，花白色或带粉红色斑点，花期5-6月，果熟期10月。",
+        "location": "华中农业大学艺术馆前绿地",
+        "image_url": "img/plant/溲疏.jpg"
+    },
+    {
+        "name": "紫藤",
+        "scientific_name": "Wisteria sinensis",
+        "features": "豆科紫藤属大型落叶藤本植物，长达20余米；花梗细，花冠紫色，花期4-5月，果期5-8月。",
+        "location": "华中农业大学国交5号楼门口、二十四节气柱、二教后",
+        "image_url": "img/plant/紫藤.jpg"
+    }
+]
